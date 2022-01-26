@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Equipos>
+    <Equipo>
+        <Nombre_Equipo>Los Ro</Nombre_Equipo>
+        <Posicion>5.6</Posicion>
+        <Lista_Jugadores>
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+         </Lista_Jugadores>
+    </Equipo>
+
+    <Equipo>
+        <Nombre_Equipo>Los Ro</Nombre_Equipo>
+        <Posicion>5.6</Posicion>
+        <Lista_Jugadores>
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+         </Lista_Jugadores>
+    </Equipo>
+
+    <Equipo>
+        <Nombre_Equipo>Los Ro</Nombre_Equipo>
+        <Posicion>5.6</Posicion>
+        <Lista_Jugadores>
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+         </Lista_Jugadores>
+    </Equipo>
+
+    <Equipo>
+        <Nombre_Equipo>Los Ro</Nombre_Equipo>
+        <Posicion>5.6</Posicion>
+        <Lista_Jugadores>
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="principal">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+            
+            <jugador category="suplente">
+                <Nombre_Jugador >Rodrigo</Nombre_Jugador>
+                <Edad_Jugador>26</Edad_Jugador>
+                <Sueldo_Jugador>1500</Sueldo_Jugador>
+            </jugador>
+         </Lista_Jugadores>
+    </Equipo>
+
+</Equipos>
